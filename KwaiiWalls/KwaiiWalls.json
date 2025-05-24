@@ -1,6 +1,24 @@
 [
     {
         "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/KwaiiWalls/refs/heads/main/KwaiiWalls/Minimal/M54.png",
+        "name": "M54",
+        "collections": "Minimal"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/KwaiiWalls/refs/heads/main/KwaiiWalls/Minimal/M53.png",
+        "name": "M53",
+        "collections": "Minimal"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/KwaiiWalls/refs/heads/main/KwaiiWalls/Minimal/M52.png",
+        "name": "M52",
+        "collections": "Minimal"
+    },
+    {
+        "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/KwaiiWalls/refs/heads/main/KwaiiWalls/Space/SP34.png",
         "name": "SP34",
         "collections": "Space"
