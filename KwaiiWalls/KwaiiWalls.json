@@ -1,6 +1,18 @@
 [
      {
         "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/KwaiiWalls/refs/heads/main/KwaiiWalls/Superheroes/SUI22.png",
+        "name": "SUI22",
+        "collections": "Superheroes"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/KwaiiWalls/refs/heads/main/KwaiiWalls/Superheroes/SUI21.png",
+        "name": "SUI21",
+        "collections": "Superheroes"
+    },
+    {
+        "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/KwaiiWalls/refs/heads/main/KwaiiWalls/Wildlife/W76.png",
         "name": "W76",
         "collections": "Wildlife"
