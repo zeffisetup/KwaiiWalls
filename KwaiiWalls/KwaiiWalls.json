@@ -1,5 +1,11 @@
 [
-     {
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/KwaiiWalls/refs/heads/main/KwaiiWalls/Wildlife/W80.png",
+        "name": "W80",
+        "collections": "Wildlife"
+    },
+    {
         "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/KwaiiWalls/refs/heads/main/KwaiiWalls/Minimal/M60.png",
         "name": "M60",
