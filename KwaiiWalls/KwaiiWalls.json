@@ -1,6 +1,18 @@
 [
     {
         "author": "Zeffi Setups",
+        "url": "https://cdn.jsdelivr.net/gh/zeffisetup/KwaiiWalls/KwaiiWalls/Wildlife/W85.png",
+        "name": "W85",
+        "collections": "Wildlife"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://cdn.jsdelivr.net/gh/zeffisetup/KwaiiWalls/KwaiiWalls/Wildlife/W84.png",
+        "name": "W84",
+        "collections": "Wildlife"
+    },
+    {
+        "author": "Zeffi Setups",
         "url": "https://cdn.jsdelivr.net/gh/zeffisetup/KwaiiWalls/KwaiiWalls/Minimal/M70.png",
         "name": "M70",
         "collections": "Minimal"
