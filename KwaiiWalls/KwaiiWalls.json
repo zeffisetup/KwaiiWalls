@@ -1,6 +1,24 @@
 [
     {
         "author": "Zeffi Setups",
+        "url": "https://cdn.jsdelivr.net/gh/zeffisetup/KwaiiWalls/KwaiiWalls/Minimal/M82.png",
+        "name": "M82",
+        "collections": "Minimal"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://cdn.jsdelivr.net/gh/zeffisetup/KwaiiWalls/KwaiiWalls/Minimal/M81.png",
+        "name": "M81",
+        "collections": "Minimal"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://cdn.jsdelivr.net/gh/zeffisetup/KwaiiWalls/KwaiiWalls/Minimal/M80.png",
+        "name": "M80",
+        "collections": "Minimal"
+    },
+    {
+        "author": "Zeffi Setups",
         "url": "https://cdn.jsdelivr.net/gh/zeffisetup/KwaiiWalls/KwaiiWalls/Minimal/M79.png",
         "name": "M79",
         "collections": "Minimal"
